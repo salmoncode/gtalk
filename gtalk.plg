@@ -1,0 +1,122 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: gtalk - Win32 Release--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+一時ﾌｧｲﾙ "C:\DOCUME~1\sako\LOCALS~1\Temp\RSPDC.tmp" を作成し、次の内容を記録します
+[
+/nologo /MT /W3 /GX /O2 /I "..\spAudio" /I "..\spBase" /I "..\lib" /I "C:\Program Files\MSXML 4.0\inc" /D "NDEBUG" /D "WIN32" /D "_CONSOLE" /D "_MBCS" /D WORDS_LITTLEENDIAN=1 /D "USE_SPLIB" /D "AUTO_DA" /Fp"Release/gtalk.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\sako\デスクトップ\gtalk\accent.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\chaone.cpp"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\chasen.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\dic.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\do_output.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\do_synthesis.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\fileIO.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\getline.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\hmmsynth.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\main.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_aphrase.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_breath.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_duration.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_mora.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_parameter.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_phoneme.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\make_sentence.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\misc.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\mlpg.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\model.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\modify_parameter.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\morph.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\read_conf.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\send.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\server.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\sleep.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\tag.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\text.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\tree.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\util.c"
+"C:\Documents and Settings\sako\デスクトップ\gtalk\vocoder.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\sako\LOCALS~1\Temp\RSPDC.tmp" 
+一時ﾌｧｲﾙ "C:\DOCUME~1\sako\LOCALS~1\Temp\RSPDD.tmp" を作成し、次の内容を記録します
+[
+spAudio.lib spBase.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/gtalk.pdb" /machine:I386 /out:"gtalk.exe" /libpath:"..\lib" /libpath:"C:\Program Files\MSXML 4.0\lib" 
+".\Release\accent.obj"
+".\Release\chaone.obj"
+".\Release\chasen.obj"
+".\Release\dic.obj"
+".\Release\do_output.obj"
+".\Release\do_synthesis.obj"
+".\Release\fileIO.obj"
+".\Release\getline.obj"
+".\Release\hmmsynth.obj"
+".\Release\main.obj"
+".\Release\make_aphrase.obj"
+".\Release\make_breath.obj"
+".\Release\make_duration.obj"
+".\Release\make_mora.obj"
+".\Release\make_parameter.obj"
+".\Release\make_phoneme.obj"
+".\Release\make_sentence.obj"
+".\Release\misc.obj"
+".\Release\mlpg.obj"
+".\Release\model.obj"
+".\Release\modify_parameter.obj"
+".\Release\morph.obj"
+".\Release\read_conf.obj"
+".\Release\send.obj"
+".\Release\server.obj"
+".\Release\sleep.obj"
+".\Release\tag.obj"
+".\Release\text.obj"
+".\Release\tree.obj"
+".\Release\util.obj"
+".\Release\vocoder.obj"
+]
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe @C:\DOCUME~1\sako\LOCALS~1\Temp\RSPDD.tmp" の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ｺﾝﾊﾟｲﾙ中...
+accent.c
+chaone.cpp
+chasen.c
+dic.c
+do_output.c
+do_synthesis.c
+fileIO.c
+getline.c
+hmmsynth.c
+main.c
+make_aphrase.c
+make_breath.c
+make_duration.c
+make_mora.c
+make_parameter.c
+make_phoneme.c
+make_sentence.c
+misc.c
+mlpg.c
+model.c
+modify_parameter.c
+morph.c
+read_conf.c
+send.c
+server.c
+sleep.c
+tag.c
+text.c
+tree.c
+util.c
+vocoder.c
+ﾘﾝｸ中...
+
+
+
+<h3>結果</h3>
+gtalk.exe - ｴﾗｰ 0、警告 0
+</pre>
+</body>
+</html>
